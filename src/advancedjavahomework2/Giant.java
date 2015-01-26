@@ -9,8 +9,6 @@ package advancedjavahomework2;
  *
  * @author Lane Schultz
  */
-public class Katana {
-    private String weaponType;
-    private String weaponCatagory;
-    private Boolean weapon;
+public class Giant extends Humanoid{
+    
 }

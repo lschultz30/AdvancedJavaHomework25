@@ -9,8 +9,6 @@ package advancedjavahomework2;
  *
  * @author Lane Schultz
  */
-public class Dwarf {
-     private String skinColor;
-     private String height;
-     private Boolean humanoid;
+public class Humanoid {
+    
 }

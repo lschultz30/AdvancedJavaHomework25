@@ -9,7 +9,7 @@ package advancedjavahomework2;
  *
  * @author Lane Schultz
  */
-public class Qunari {
+public class Qunari extends Giant{
      private String skinColor;
      private String height;
      private Boolean humanoid;
